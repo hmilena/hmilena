@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Milena 🤙
-- 👀 I’m interested in playing basketball 🏀 and talk for hours about how my dog 🐶 is cute
-- 🌱 I’m currently learning React and Next
+- 👀 I’m really into riding my e-scooter 🛴 with my best friend Pudim 🐶 
+- 🌱 I’m currently learning React, TypeScript and Next
 - 📫 Reach me @hmilena at threads or instagram
 
 <!---
