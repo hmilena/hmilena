@@ -1,6 +1,9 @@
 - 👋 Hi, I’m Milena 🤙
 - 👀 I’m really into riding my e-scooter 🛴 with my best friend Pudim 🐶 
-- 🌱 I am a Frontend Engineer with 10+ years of experience building production-grade interfaces for enterprise clients around the world. Extensive background in component architecture, design systems, and Vanilla JavaScript — including six years developing custom JS components integrated into OutSystems applications for Banco BPI, Ericsson, and Fidelidade. Author of a live headless React blog backed by a custom WordPress REST API, with optimistic UI, Schema.org structured data, Web Push notifications, and a full SASS design system. Active open-source portfolio on GitHub.
+- 🌱 Frontend engineer with 10+ years of experience building component libraries, design systems, and scalable
+interfaces for enterprise products. Specialized in React, TypeScript, and accessibility-first component
+architecture. Strong track record delivering pixel-perfect, production-grade UIs at Banco BPI and Ericsson,
+with hands-on experience in Storybook-driven development and design-to-code workflows. Fluent in English.
 - 📫 Reach me @hmilena at threads or instagram
 
 <!---
