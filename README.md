@@ -29,7 +29,7 @@ A job aggregator for the Portuguese tech market. Scrapes multiple sources, track
 
 Portuguese net salary calculator with dynamic working days, automated IRS retention tables (2026), and a reverse calculator (net → gross). Supports multiple tax regimes.
 
-[![Live](https://img.shields.io/badge/OPEN_APP-liqdo.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://liqdo.vercel.app)
+[![Live](https://img.shields.io/badge/OPEN_APP-liqdo.vercel.app-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://liqdo.vercel.app)
 
 </td>
 </tr>
