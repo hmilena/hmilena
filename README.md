@@ -12,31 +12,44 @@ I build component libraries, design systems, and scalable interfaces for enterpr
 
 ## 🚀 Featured Projects
 
-<table>
-  
-<tr>
-<td width="50%" valign="top">
-### [JobRadar PT](https://jobradarpt.vercel.app)
-A job aggregator for the Portuguese tech market. Scrapes multiple sources, tracks republications, and surfaces remote-friendly positions from product companies.
+**JobRadar PT** — A job aggregator for the Portuguese tech market. Scrapes multiple sources, tracks republications, and surfaces remote-friendly positions from product companies.
 
-`Next.js` `FastAPI` `PostgreSQL` `Docker`
-</td>
+[![Live](https://img.shields.io/badge/live-jobradarpt.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jobradarpt.vercel.app)
+[![GitHub](https://img.shields.io/badge/repo-jobradar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hmilena/jobradar)
 
-<td width="50%" valign="top">
-### [Liqdo](https://liqdo.vercel.app)
-Portuguese net salary calculator with dynamic working days, automated IRS retention tables (2026), and a reverse calculator (net → gross). Supports multiple tax regimes.
-`React` `Nager.Date API`
-</td>
-</tr>
-</table>
+**Liqdo** — Portuguese net salary calculator with dynamic working days, automated IRS retention tables (2026), and a reverse calculator (net → gross). Supports multiple tax regimes.
+
+[![Live](https://img.shields.io/badge/live-liqdo.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://liqdo.vercel.app)
+[![GitHub](https://img.shields.io/badge/repo-liqdo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hmilena/liqdo)
 
 ---
 
 ## 🛠 Tech
 
-**Core** &nbsp; JavaScript · TypeScript · React · Next.js · HTML · CSS  
-**UI Engineering** &nbsp; Design Systems · Component Libraries · Storybook · BEM · CSS Custom Properties · Web Components  
-**Tools** &nbsp; Git · Figma · Chromatic · Vite · Webpack
+**Core**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**UI Engineering**
+
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
+![Web Components](https://img.shields.io/badge/Web_Components-29ABE2?style=flat-square&logo=webcomponentsdotorg&logoColor=white)
+![BEM](https://img.shields.io/badge/BEM-000000?style=flat-square&logoColor=white)
+![Design Systems](https://img.shields.io/badge/Design_Systems-6B21A8?style=flat-square&logoColor=white)
+![CSS Custom Properties](https://img.shields.io/badge/CSS_Custom_Properties-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Chromatic](https://img.shields.io/badge/Chromatic-FC521F?style=flat-square&logo=chromatic&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=000)
 
 ---
 
