@@ -20,7 +20,7 @@ I build component libraries, design systems, and scalable interfaces for enterpr
 
 A job aggregator for the Portuguese tech market. Scrapes multiple sources, tracks republications, and surfaces remote-friendly positions from product companies.
 
-[![Live](https://img.shields.io/badge/OPEN_APP-jobradarpt.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jobradarpt.vercel.app)
+[![Live](https://img.shields.io/badge/OPEN_APP-jobradarpt.vercel.app-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)](https://jobradarpt.vercel.app)
 
 </td>
 <td width="50%" valign="top">
