@@ -56,21 +56,11 @@ Portuguese net salary calculator with dynamic working days, automated IRS retent
 ![Design Systems](https://img.shields.io/badge/Design_Systems-6B21A8?style=flat-square&logoColor=white)
 ![CSS Custom Properties](https://img.shields.io/badge/CSS_Custom_Properties-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Chromatic](https://img.shields.io/badge/Chromatic-FC521F?style=flat-square&logo=chromatic&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=000)
-
 ---
 
 ## 📬 Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hmilena-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hmilena)
-[![Threads](https://img.shields.io/badge/Threads-@hmilena-000000?style=flat-square&logo=threads&logoColor=white)](https://threads.net/@hmilena)
-[![Instagram](https://img.shields.io/badge/Instagram-@hmilena-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/hmilena)
 [![Blog](https://img.shields.io/badge/Blog-blogdamia.com.br-FF5722?style=flat-square&logo=rss&logoColor=white)](https://blogdamia.com.br)
 [![Email](https://img.shields.io/badge/Email-h.milena@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:h.milena@gmail.com)
 
